@@ -2,11 +2,8 @@
 
 # Hi, I'm Yağmur 👋
 
-### > Computer Engineering Student &nbsp;·&nbsp; > I code stuff, break stuff and fix stuff.
+###  Computer Engineering Student &nbsp;·&nbsp; > I code stuff, break stuff and fix stuff.
 
-![Profile views](https://komarev.com/ghpvc/?username=yagmur&style=flat-square&color=00ff88&label=VISITORS)
-
-</div>
 
 ---
 
