@@ -23,7 +23,7 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Recent Projects
 
 <table>
 <tr>
@@ -34,7 +34,7 @@
 
 Analyzed real energy datasets, extracted actionable insights, and built automation scripts for reporting and optimization.
 
-C# Python Pandas NumPy
+C# 
 
 </td>
 <td width="50%">
@@ -44,7 +44,7 @@ C# Python Pandas NumPy
 
 A system that automatically detects, logs, and responds to backend errors. Monitoring + automation + data handling.
 
-C# Python .NET Core REST APIs Git
+Python 
 
 </td>
 </tr>
