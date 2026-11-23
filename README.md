@@ -1,9 +1,8 @@
-
 <p align="center">
   <a href="https://github.com/0yagmur0">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=220&section=header&text=Ya%C4%9Fmur&fontSize=80&fontColor=FFFFFF&animation=fadeIn&fontAlignY=42&desc=Software%20Development%20%C2%B7%20Problem%20Solving&descSize=22&descAlignY=64" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=130&section=header&text=Ya%C4%9Fmur&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Development%20%C2%B7%20Problem%20Solving&descSize=16&descAlignY=68" width="100%" />
   </a>
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=64&lines=%3E+I+code+stuff%2C+break+stuff+and+fix+stuff.;%3E+building+things+that+actually+work.;%3E+debugging+is+part+of+the+process." width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&duration=2000&pause=1600&color=E5EE4E&background=0A0A0A&center=true&vCenter=true&width=854&height=40&lines=%3E+I+code+stuff%2C+break+stuff+and+fix+stuff.;%3E+building+things+that+actually+work.;%3E+debugging+is+part+of+the+process." width="100%" />
 </p>
 
 <p align="center">
@@ -17,24 +16,24 @@
 
 ## 🧬 about
 
-```python
-developer = {
-    "interests": [
-        "Software Development",
-        "Backend Development",
-        "Automation",
-        "Data Analysis"
-    ],
-    "languages": ["C#", "Python", "SQL"],
-    "exploring": [
-        "Cloud Computing",
-        "DevOps",
-        "Cybersecurity"
-    ]
-}
-```
+<p align="center">
+  <b>interests</b><br>
+  <code>Software Development</code> <code>Backend Development</code> <code>Automation</code> <code>Data Analysis</code>
+</p>
 
-Interested in building practical software solutions, solving problems and exploring how systems work behind the scenes.
+<p align="center">
+  <b>languages</b><br>
+  <img src="https://skillicons.dev/icons?i=cs,py,mysql&theme=dark" />
+</p>
+
+<p align="center">
+  <b>exploring</b><br>
+  <code>Cloud Computing</code> <code>DevOps</code> <code>Cybersecurity</code>
+</p>
+
+<p align="center">
+  Interested in building practical software solutions, solving problems and exploring how systems work behind the scenes.
+</p>
 
 ## 🚀 projects
 
