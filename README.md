@@ -1,5 +1,7 @@
+<!-- ==================== HEADER ==================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071F25,50:0D4148,100:176B68&height=200&section=header&text=Ya%C4%9Fmur&fontSize=52&fontColor=D9F2E8&fontAlignY=38&animation=twinkling&desc=Software%20Developer&descSize=17&descColor=B8E5D9&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071F1B,25:123F32,55:005249,80:245A3D,100:0B3028&height=200&section=header&text=Ya%C4%9Fmur&fontSize=52&fontColor=E0EAD5&fontAlignY=38&animation=twinkling&desc=Software%20Developer&descSize=17&descColor=C2D8C4&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
@@ -120,4 +122,8 @@ Explore more software projects and experiments in my repositories.
   <img src="https://skillicons.dev/icons?i=cs,py,dotnet,mysql,sqlite,git,github,vscode,visualstudio&perline=5&theme=dark" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:176B68,50:0D4148,100:071F25&height=110&section=footer" width="100%" />
+<!-- ==================== FOOTER ==================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:245A3D,30:005249,65:123F32,100:071F1B&height=110&section=footer" width="100%" />
+</p>
