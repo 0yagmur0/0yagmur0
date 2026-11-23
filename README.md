@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/0yagmur0">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=130&section=header&text=Ya%C4%9Fmur&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Development%20%C2%B7%20Problem%20Solving&descSize=16&descAlignY=68" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=130&section=header&text=Ya%C4%9Fmur&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=16&descAlignY=68" width="100%" />
   </a>
 </p>
 
 <p align="center">
-  <code>&gt; I code stuff, break stuff and fix stuff.</code>
+  <img src="https://img.shields.io/badge/%24-I_code_stuff%2C_break_stuff_and_fix_stuff.-0A0A0A?style=for-the-badge&labelColor=A21517" />
 </p>
 
 <p align="center">
@@ -113,8 +113,4 @@ Explore more software projects and experiments in my repositories.
   <a href="https://www.linkedin.com/in/yagmurcan0">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:A21517,100:0A0A0A&height=90&section=footer&text=Stay%20curious.%20Keep%20building.&fontSize=28&fontColor=FFFFFF&fontAlignY=52" width="100%" />
 </p>
