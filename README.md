@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:053638,100:0A4F47&height=220&section=header&text=Ya%C4%9Fmur&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Software%20Developer&descSize=17&descAlignY=58" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:6DB38F,50:8CCBA8,100:B5E3C8&height=220&section=header&text=Ya%C4%9Fmur&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Software%20Developer&descSize=17&descAlignY=58" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%A8-I_code_stuff%2C_break_stuff_and_fix_stuff.-053638?style=for-the-badge&labelColor=3C8F63" />
+  <img src="https://img.shields.io/badge/%E2%9C%A8-I_code_stuff%2C_break_stuff_and_fix_stuff.-053638?style=for-the-badge&labelColor=053638" />
 </p>
 
 <p align="center">
@@ -34,9 +34,9 @@
 
 <p align="center">
   <b>exploring</b><br><br>
-  <img src="https://img.shields.io/badge/Cloud_Computing-3C8F63?style=flat-square" />
-  <img src="https://img.shields.io/badge/DevOps-3C8F63?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cybersecurity-3C8F63?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud_Computing-053638?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-053638?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity-053638?style=flat-square" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ A team project exploring AI-powered glass defect detection using GAN-based appro
 Explore more software projects and experiments in my repositories.
 
 <a href="https://github.com/0yagmur0?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repositories-3C8F63?style=for-the-badge&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Explore_Repositories-053638?style=for-the-badge&logoColor=FFFFFF" />
 </a>
 
 </td>
@@ -120,4 +120,4 @@ Explore more software projects and experiments in my repositories.
   <img src="https://skillicons.dev/icons?i=cs,py,dotnet,mysql,sqlite,git,github,vscode,visualstudio&perline=5&theme=dark" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0A4F47,100:053638&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:B5E3C8,50:8CCBA8,100:6DB38F&height=120&section=footer" width="100%" />
