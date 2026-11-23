@@ -1,44 +1,51 @@
 <p align="center">
-  <a href="https://github.com/0yagmur0">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0A0A,100:A21517&height=130&section=header&text=Ya%C4%9Fmur&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Developer&descSize=16&descAlignY=68" width="100%" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D2A,50:123C46,100:1F5A3C&height=200&section=header&text=Ya%C4%9Fmur&fontSize=52&fontColor=EFFFC2&fontAlignY=38&animation=twinkling&desc=Software%20Developer&descSize=17&descAlignY=60" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%24-I_code_stuff%2C_break_stuff_and_fix_stuff.-0A0A0A?style=for-the-badge&labelColor=A21517" />
+  <img src="https://img.shields.io/badge/%E2%9C%A8-I_code_stuff%2C_break_stuff_and_fix_stuff.-0B1D2A?style=for-the-badge&labelColor=1F5A3C" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yagmurcan0">
-    <img src="https://img.shields.io/badge/LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-123C46?style=for-the-badge&logo=linkedin&logoColor=D9F26B" />
   </a>
   <a href="https://github.com/0yagmur0">
-    <img src="https://img.shields.io/badge/GitHub-A21517?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-123C46?style=for-the-badge&logo=github&logoColor=D9F26B" />
   </a>
 </p>
 
-## 🧬 about
+<p align="center">✦ · ✦ · ✦</p>
+
+## 🌙 about
 
 <p align="center">
-  <b>interests</b><br>
-  <code>Software Development</code> <code>Backend Development</code> <code>Automation</code> <code>Data Analysis</code>
+  <b>interests</b><br><br>
+  <img src="https://img.shields.io/badge/Software_Development-123C46?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend_Development-123C46?style=flat-square" />
+  <img src="https://img.shields.io/badge/Automation-123C46?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data_Analysis-123C46?style=flat-square" />
 </p>
 
 <p align="center">
-  <b>languages</b><br>
+  <b>languages</b><br><br>
   <img src="https://skillicons.dev/icons?i=cs,py,mysql&theme=dark" />
 </p>
 
 <p align="center">
-  <b>exploring</b><br>
-  <code>Cloud Computing</code> <code>DevOps</code> <code>Cybersecurity</code>
+  <b>exploring</b><br><br>
+  <img src="https://img.shields.io/badge/Cloud_Computing-1F5A3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-1F5A3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity-1F5A3C?style=flat-square" />
 </p>
 
 <p align="center">
-  Interested in building practical software solutions, solving problems and exploring how systems work behind the scenes.
+  Interested in building practical software solutions, solving problems and exploring how systems work behind the scenes. 🍃
 </p>
 
-## 🚀 projects
+<p align="center">✦ · ✦ · ✦</p>
+
+## 🍃 projects
 
 <table>
 <tr>
@@ -51,7 +58,9 @@
 Analyzed energy datasets, identified abnormal consumption patterns, extracted actionable insights and developed automation scripts for reporting and optimization.
 
 <p>
-<code>C#</code> <code>Data Analysis</code> <code>Automation</code>
+<img src="https://img.shields.io/badge/C%23-123C46?style=flat-square" />
+<img src="https://img.shields.io/badge/Data_Analysis-123C46?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-123C46?style=flat-square" />
 </p>
 
 </td>
@@ -64,7 +73,9 @@ Analyzed energy datasets, identified abnormal consumption patterns, extracted ac
 A Python-based system designed to automatically detect, log and respond to backend errors. Combines monitoring, automation and data handling.
 
 <p>
-<code>Python</code> <code>Monitoring</code> <code>Automation</code>
+<img src="https://img.shields.io/badge/Python-123C46?style=flat-square" />
+<img src="https://img.shields.io/badge/Monitoring-123C46?style=flat-square" />
+<img src="https://img.shields.io/badge/Automation-123C46?style=flat-square" />
 </p>
 
 </td>
@@ -79,7 +90,9 @@ A Python-based system designed to automatically detect, log and respond to backe
 A team project exploring AI-powered glass defect detection using GAN-based approaches, real-world data and multiple imaging technologies.
 
 <p>
-<code>AI</code> <code>GAN</code> <code>Computer Vision</code>
+<img src="https://img.shields.io/badge/AI-123C46?style=flat-square" />
+<img src="https://img.shields.io/badge/GAN-123C46?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer_Vision-123C46?style=flat-square" />
 </p>
 
 </td>
@@ -92,25 +105,19 @@ A team project exploring AI-powered glass defect detection using GAN-based appro
 Explore more software projects and experiments in my repositories.
 
 <a href="https://github.com/0yagmur0?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_Repositories-A21517?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Explore_Repositories-1F5A3C?style=for-the-badge&logoColor=D9F26B" />
 </a>
 
 </td>
 </tr>
 </table>
 
-## 🧰 tech stack
+<p align="center">✦ · ✦ · ✦</p>
+
+## ✨ tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,py,dotnet,mysql,sqlite,git,github,vscode,visualstudio&perline=5&theme=dark" />
 </p>
 
-<p align="center">
-  <b>Working on something interesting? Let's connect.</b>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yagmurcan0">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-A21517?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F5A3C,50:123C46,100:0B1D2A&height=110&section=footer" width="100%" />
