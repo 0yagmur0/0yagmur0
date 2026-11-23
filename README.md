@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071F25,50:0D4148,100:176B68&height=200&section=header&text=Ya%C4%9Fmur&fontSize=52&fontColor=D9F2E8&fontAlignY=38&animation=twinkling&desc=Software%20Developer&descSize=17&descColor=B8E5D9&descAlignY=60" width="100%" />
 </p>
@@ -122,4 +121,3 @@ Explore more software projects and experiments in my repositories.
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:176B68,50:0D4148,100:071F25&height=110&section=footer" width="100%" />
-```
