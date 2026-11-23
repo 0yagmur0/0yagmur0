@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:053638,50:0A5A52,100:3C8F63&height=200&section=header&text=Ya%C4%9Fmur&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=Software%20Developer&descSize=17&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:053638,100:0A4F47&height=200&section=header&text=Ya%C4%9Fmur&fontSize=52&fontColor=FFFFFF&fontAlignY=40&animation=twinkling&desc=Software%20Developer&descSize=17&descAlignY=62" width="100%" />
 </p>
 
 <p align="center">
@@ -120,4 +120,4 @@ Explore more software projects and experiments in my repositories.
   <img src="https://skillicons.dev/icons?i=cs,py,dotnet,mysql,sqlite,git,github,vscode,visualstudio&perline=5&theme=dark" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3C8F63,50:0A5A52,100:053638&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A4F47,100:053638&height=110&section=footer" width="100%" />
